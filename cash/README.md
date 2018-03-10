@@ -2,8 +2,8 @@
 
 This project aims to convert an amount of a currency to another one.
 These currencies must be in this list :
-	- Australian Dollar
-  	- Russian Rouble
+- Australian Dollar
+- Russian Rouble
   	- Euro
   	- Bulgarian Lev
   	- Real Brazilian
@@ -48,9 +48,9 @@ Having all libraries needed installed on your computer.
 Go on [Node.js](http://nodejs.org/) 
 
 **How to install all the libraries ?**
-`$ cd C:\...\3-musketeers`
-`$ cd cash`
-`$ npm install`
+`$ cd C:\...\3-musketeers`    
+`$ cd cash`    
+`$ npm install`    
 
 End with an example of getting some data out of the system or using it for a little demo
 
