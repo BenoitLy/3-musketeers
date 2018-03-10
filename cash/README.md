@@ -54,7 +54,36 @@ Go on [Node.js](http://nodejs.org/)
 
 ## Usage 
 
+### Calculation
 
+`$ node bin/index.js <amount> <currency>`   
+
+#### Example 
+```
+$ node bin/index.js 1 usd //return √ 0.72 (GBP) Pound Sterling
+$ node bin/index.js 1 usd eur pln aud //return √ 0.81 (EUR) Euro √ 3.42 (PLN) Polish Zloty √ 1.28 (AUD) Australian Dollar
+```
+
+
+
+### Command 
+
+`$ node bin/index.js <command>`   
+
+#### List of commands 
+```
+--save,  -s       Save currencies as default currencies
+--help,  -h        Display help message
+--version,  -v     Display version number
+```
+
+
+#### Example
+```
+$ node bin/index.js --save usd eur pln aud
+$ node bin/index.js --help
+$ node bin/index.js -v
+```  
 
 ## Running the tests
 
