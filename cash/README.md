@@ -83,38 +83,38 @@ $ node bin/index.js -v
 ```  
 
 ### List of currencies 
--AUD for Australian Dollar
--RUB for Russian Rouble
--EUR for Euro
--BGN for Bulgarian Lev
--BRL for Real Brazilian
--CAD for Canadian Dollar
--CHF for Swiss Franc
--CNY for Chinese Yuan
--CZK for Czech Koruna
--DKK for Danish Krone
--GBP for Pound Sterling
--HKD for Hong Kong Dollar
--HRK for Croatian Kuna
--HUF for Hungarian Forint
--IDR for Indonesian Rupiah
--ILS for Israeli Shekel
--INR for Indian Rupee
--JPY for Japanes Yen
--KRW for South Korean Won
--MXN for Mexican Peso
--MYR for Malaysian Ringgit
--NOK for Norwegian Krone
--PHP for Philippine Peso
--PLN for Polish Zloty
--RON for Romanian New Leu
--SEK for Swedish Krona
--SGD for Singapore Dollar
--THB for Thai Baht
--TRY for Turkish Lira
--USD for US Dollar
--ZAR for South African Rand
--NZD for New Zealand Dollar
+- AUD for Australian Dollar
+- RUB for Russian Rouble
+- EUR for Euro
+- BGN for Bulgarian Lev
+- BRL for Real Brazilian
+- CAD for Canadian Dollar
+- CHF for Swiss Franc
+- CNY for Chinese Yuan
+- CZK for Czech Koruna
+- DKK for Danish Krone
+- GBP for Pound Sterling
+- HKD for Hong Kong Dollar
+- HRK for Croatian Kuna
+- HUF for Hungarian Forint
+- IDR for Indonesian Rupiah
+- ILS for Israeli Shekel
+- INR for Indian Rupee
+- JPY for Japanes Yen
+- KRW for South Korean Won
+- MXN for Mexican Peso
+- MYR for Malaysian Ringgit
+- NOK for Norwegian Krone
+- PHP for Philippine Peso
+- PLN for Polish Zloty
+- RON for Romanian New Leu
+- SEK for Swedish Krona
+- SGD for Singapore Dollar
+- THB for Thai Baht
+- TRY for Turkish Lira
+- USD for US Dollar
+- ZAR for South African Rand
+- NZD for New Zealand Dollar
 
 ## Running the tests
 
