@@ -1,53 +1,53 @@
 # cash
 
-This project aims to convert an amount of a currency to another one.
-These currencies must be in this list :
+This project aims to convert an amount of a currency to another one.    
+These currencies must be in this list :    
 - Australian Dollar
 - Russian Rouble
-  	- Euro
-  	- Bulgarian Lev
-  	- Real Brazilian
-  	- Canadian Dollar
-  	- Swiss Franc
-  	- Chinese Yuan
-  	- Czech Koruna
-  	- Danish Krone
-  	- Pound Sterling
-  	- Hong Kong Dollar
-  	- Croatian Kuna
-  	- Hungarian Forint
-  	- Indonesian Rupiah
-  	- Israeli Shekel
-  	- Indian Rupee
-  	- Japanes Yen
-  	- South Korean Won
-  	- Mexican Peso
-  	- Malaysian Ringgit
-  	- Norwegian Krone
-  	- Philippine Peso
-  	- Polish Zloty
-  	- Romanian New Leu
-  	- Swedish Krona
-  	- Singapore Dollar
-  	- Thai Baht
-  	- Turkish Lira
-  	- US Dollar
-  	- South African Rand
-  	- New Zealand Dollar
+- Euro
+- Bulgarian Lev
+- Real Brazilian
+- Canadian Dollar
+- Swiss Franc
+- Chinese Yuan
+- Czech Koruna
+- Danish Krone
+- Pound Sterling
+- Hong Kong Dollar
+- Croatian Kuna
+- Hungarian Forint
+- Indonesian Rupiah
+- Israeli Shekel
+- Indian Rupee
+- Japanes Yen
+- South Korean Won
+- Mexican Peso
+- Malaysian Ringgit
+- Norwegian Krone
+- Philippine Peso
+- Polish Zloty
+- Romanian New Leu
+- Swedish Krona
+- Singapore Dollar
+- Thai Baht
+- Turkish Lira
+- US Dollar
+- South African Rand
+- New Zealand Dollar
 
 ## Getting started
 
 ### Prerequisites
 
-Having Node.js installed on your computer.
-Having all libraries needed installed on your computer.
+Having Node.js installed on your computer.    
+Having all libraries needed installed on your computer.    
 
 ### Installing
 
-**How to install Node.js ?**
-Go on [Node.js](http://nodejs.org/) 
+**How to install Node.js ?**    
+Go on [Node.js](http://nodejs.org/)    
 
-**How to install all the libraries ?**
+**How to install all the libraries ?**       
 `$ cd C:\...\3-musketeers`    
 `$ cd cash`    
 `$ npm install`    
